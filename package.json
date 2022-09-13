@@ -24,6 +24,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@sveltejs/adapter-static": "1.0.0-next.43",
 		"autoprefixer": "^10.4.10",
 		"postcss": "^8.4.16",
 		"svelte-preprocess": "^4.10.7",

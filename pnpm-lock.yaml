@@ -3,6 +3,7 @@ lockfileVersion: 5.4
 specifiers:
   '@playwright/test': ^1.25.0
   '@sveltejs/adapter-auto': next
+  '@sveltejs/adapter-static': 1.0.0-next.43
   '@sveltejs/kit': next
   autoprefixer: ^10.4.10
   eslint: ^8.16.0
@@ -19,6 +20,7 @@ specifiers:
   vite: ^3.1.0
 
 dependencies:
+  '@sveltejs/adapter-static': 1.0.0-next.43
   autoprefixer: 10.4.10_postcss@8.4.16
   postcss: 8.4.16
   svelte-preprocess: 4.10.7_snqnsttluzgwj6kbxzouwakc4q
@@ -197,6 +199,10 @@ packages:
       esbuild: 0.15.7
       set-cookie-parser: 2.5.1
     dev: true
+
+  /@sveltejs/adapter-static/1.0.0-next.43:
+    resolution: {integrity: sha512-PAgSp1GA8HkYE4p30/sBvJme2nefhcTBJafqQdMNoUksWZF2WzuL8OEO8wa9ndE6cghcGk3j6Ve0Oskg/wtTOw==}
+    dev: false
 
   /@sveltejs/adapter-vercel/1.0.0-next.74:
     resolution: {integrity: sha512-BMAeib/aH0JdCyMncnugZteVMc47DfKtqE49BpH8JtiIBna34mkYevUWFLyIEVjoNUu2hHr9GMZXBI0q7JL8tQ==}
