@@ -10,6 +10,7 @@
                 <h1 class="text-white text-2xl font-semibold">about:</h1>
                 <p class="text-white">→ i program random things as and when i feel</p>
                 <p class="text-white">→ html, css, javascript, c#, sveltekit</p>
+                <p class="text-white">→ i mostly make personal projects and projects for fun</p>
             </div>
         </div>
 
