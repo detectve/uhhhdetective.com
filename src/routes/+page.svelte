@@ -21,7 +21,7 @@
                 <p class="text-white">→ A bot for Discord that upon command shows UK train times for a station of your choice, including delays and cancellations.</p>
                 <br>
                 <h2 class="text-white text-xl font-semibold">dot matrix (personal project)</h2>
-                <p class="text-white">→ A dot matrix display that informs the user of trains time, delays and cancellations for a station of their choice, using the Realtime trains API.</p>
+                <p class="text-white">→ A dot matrix display that informs the user of trains time, delays and cancellations for a station of their choice, using the Realtime Trains API.</p>
             </div>
         </div>
 
