@@ -18,11 +18,14 @@
         <div class="rounded overflow-hidden shadow-lg bg-[#302e2e] hover:scale-105 transition duration-300 ease-in-out ">
             <div class="px-6 py-4 inset-x-0 top-0">
                 <h1 class = "text-white text-2xl font-semibold">projects:</h1>
-                <h2 class="text-white text-xl font-semibold">train info for discord (work in progress)</h2>
+                <h2 class="text-white text-xl font-semibold">train info for discord</h2>
                 <p class="text-white">→ A bot for Discord that upon command shows UK train times for a station of your choice, including delays and cancellations.</p>
                 <br>
-                <h2 class="text-white text-xl font-semibold">dot matrix (personal project)</h2>
+                <h2 class="text-white text-xl font-semibold">dot matrix (personal project, work in progress)</h2>
                 <p class="text-white">→ A dot matrix display that informs the user of trains time, delays and cancellations for a station of their choice, using the Realtime Trains API.</p>
+                <br>
+                <h2 class="text-white text-xl font-semibold">uhhhdetective.xyz, this website (work in progress)</h2>
+                <p class="text-white">→ The website you're on now, made with SvelteKit and Tailwind CSS, hosted by Cloudflare Pages.</p>
             </div>
         </div>
 
