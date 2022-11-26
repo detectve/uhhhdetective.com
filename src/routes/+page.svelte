@@ -9,6 +9,7 @@
             <div class="px-6 py-4">
                 <h1 class="text-white text-2xl font-semibold">About:</h1>
                 <p class="text-white">→ Hi I'm Em!</p>
+                <p class="text-white">→ I'm a 16 year old aspiring Front-End/Full Stack developer.</p>
                 <p class="text-white">→ I program random things as and when I feel</p>
                 <p class="text-white">→ HTML, CSS, JavaScript, SvelteKit, Python</p>
                 <p class="text-white">→ I make websites, program bots for discord, and other stuff.</p>
