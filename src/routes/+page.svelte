@@ -4,7 +4,7 @@
 
     <div id="main">
         <div class="p-10 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-5">
-
+        
         <div class="rounded overflow-hidden shadow-lg bg-[#302e2e] hover:scale-105 transition duration-300 ease-in-out">
             <div class="px-6 py-4">
                 <h1 class="text-white text-2xl font-semibold">About:</h1>
