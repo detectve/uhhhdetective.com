@@ -1,12 +1,12 @@
 # uhhhdetective.xyz
 
-## Dev
+## Development
 
 ```bash
 pnpm i && pnpm run dev
 ```
 
-## Build
+## Building
 
 ```bash
 pnpm i && pnpm run build
