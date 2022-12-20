@@ -1,6 +1,6 @@
 body{
     font-family: 'Roboto', sans-serif;
-    background-color: #124559;
+    background-color: #151733;
 }
 
 h1{
@@ -9,4 +9,14 @@ h1{
 
 h2{
     font-family: 'Rajdhani', sans-serif;
+}
+
+.glow{
+    color: #FEF08A;
+    text-shadow: 0 0 10px #FEF08A, 0 0 20px #FEF08A, 0 0 30px #FEF08A, 0 0 40px #FEF08A, 0 0 50px #FEF08A, 0 0 60px #FEF08A, 0 0 70px #FEF08A;
+}
+
+.glowhover:hover{
+    color: #FEF08A;
+    text-shadow: 0 0 10px #FEF08A, 0 0 20px #FEF08A, 0 0 30px #FEF08A, 0 0 40px #FEF08A, 0 0 50px #FEF08A, 0 0 60px #FEF08A, 0 0 70px #FEF08A;
 }
