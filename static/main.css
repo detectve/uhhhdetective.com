@@ -12,7 +12,7 @@ h2{
 }
 
 p{
-    font-family: 'Bai Jamjuree', sans-serif;
+    font-family: 'Bai Jamjuree', sans-serif !important;
 }
 
 .glow{
