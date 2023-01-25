@@ -51,18 +51,18 @@
       </p>
       <p class="text-m">
         {#if discordData.discord_status != "offline"}<span
-            class="text-white font-semibold">online</span
+            class="text-white font-semibold">Online</span
           >
           <span class="text-m text-gray-200"
             >({discordData.discord_status})</span
-          >{:else}<span class="text-white font-semibold">offline</span>{/if}
+          >{:else}<span class="text-white font-semibold">Offline</span>{/if}
       </p>
       <p class="text-m">
         {#if discordData.spotify != null}
           <span class="text-white font-semibold text-clip overflow-hidden">
             <i class="fab fa-spotify" />
             <span class="font-normal text-gray-100"
-              >listening to
+              >Listening to
             </span>{discordData.spotify.song}
             <span class="font-normal text-gray-100">by </span>
             {discordData.spotify.artist}
