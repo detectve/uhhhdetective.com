@@ -27,7 +27,7 @@
     <div class="rounded overflow-hidden shadow-lg bg-[#302e2e]">
       <div class="px-6 py-4">
         <h1 class="text-white text-2xl font-semibold mb-4">Projects:</h1>
-        <h2 class="text-white text-xl font-semibold">Train Info for Discord</h2>
+        <h2 class="text-white text-xl font-semibold">Train Info for Discord:</h2>
         <p class="text-white">
           → A bot for Discord that upon command shows UK train times for a
           station of your choice, including delays and cancellations, using the
@@ -35,7 +35,7 @@
         </p>
         <br />
         <h2 class="text-white text-xl font-semibold">
-          Dot Matrix (personal project, under current development)
+          Dot Matrix (personal project, under current development):
         </h2>
         <p class="text-white">
           → A dot matrix display that informs the user of arrival and departure
@@ -44,13 +44,41 @@
         </p>
         <br />
         <h2 class="text-white text-xl font-semibold">
-          uhhhdetective.xyz, this website (work in progress)
+          uhhhdetective.xyz, this website (work in progress):
         </h2>
         <p class="text-white">
-          → The website you're on now, made with SvelteKit and Tailwind CSS,
+          → The website you're on now, made with SvelteKit and TailwindCSS,
           hosted with Cloudflare Pages. Used to advance knowledge with web
           development.
         </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="box-content h-50 w-50 py-2 px-10">
+    <div class="rounded overfolw-hidden shadow-lg bg-[#302e2e]">
+      <div class="px-6 py-4">
+        <h1 class="text-white text-2xl font-semibold mb-4">Resources:</h1>
+        <h2 class="text-white text-xl font-semibold">Svelte:</h2>
+        <p class="text-white"> → Used for front-end development.</p>
+        <br />
+        <h2 class="text-white text-xl font-semibold">JavaScript:</h2>
+        <p class="text-white"> → Used for website development.</p>
+        <br />
+        <h2 class="text-white text-xl font-semibold">Python:</h2>
+        <p class="text-white"> → Used for bot development and other various projects.</p>
+        <br />
+        <h2 class="text-white text-xl font-semibold">TailwindCSS:</h2>
+        <p class="text-white"> → Used for styling.</p>
+        <br />
+        <h2 class="text-white text-xl font-semibold">Visual Studio Code:</h2>
+        <p class="text-white"> → Used for code editing.</p>
+        <br />
+        <h2 class="text-white text-xl font-semibold">Cloudflare Pages:</h2>
+        <p class="text-white"> → Used for hosting.</p>
+        <br />
+        <h2 class="text-white text-xl font-semibold">Figma:</h2>
+        <p class="text-white"> → Used for designing webpages.</p>
       </div>
     </div>
   </div>
@@ -60,10 +88,11 @@
       <div class="px-6 py-4">
         <h1 class="text-white text-2xl font-semibold mb-4">Contact:</h1>
         <p class="text-white">
+          <p class="text-white">If you wish to contact me for enquiries, please use the following methods:
+          <br/>
           <a href="https://github.com/detectve">
-            <i class="fab fa-github" /> detectve</a
-          >
-        </p>
+            <i class="fab fa-github" /> detectve</a>
+          </p>
         <p class="text-white">
           <a href="https://discord.com/users/718798976211484724">
             <i class="fab fa-discord " /> uhhhdetective#1337
