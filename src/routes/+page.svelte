@@ -10,15 +10,25 @@
   <div class="box-content h-50 w-50 py-2 px-10">
     <div class="rounded overflow-hidden shadow-lg bg-[#302e2e]">
       <div class="px-6 py-4">
-        <h1 class="text-white text-2xl font-semibold mb-4">About:</h1>
-        <p class="text-white">
-          → Hi, I'm Em. I am a 16 year old aspiring developer.
-        </p>
-        <p class="text-white">→ I am from the UK, timezone - GMT</p>
-        <p class="text-white">
-          → I enjoy coding personal and commercial projects, travelling around
-          the UK, photography and website design and development.
-        </p>
+        <h1 class="text-white text-2xl font-semibold mb-4">Hi, I'm Em.</h1>
+        <p class="text-white">I'm a front-end developer based in the UK, with interests in front-end/full stack development and just programming in general. </p> 
+      </div>
+    </div>
+  </div>
+
+  <div class="box-content h-50 w-50 py-2 px-10">
+    <div class="rounded overfolw-hidden shadow-lg bg-[#302e2e]">
+      <div class="px-6 py-4">
+        <h1 class="text-white text-2xl font-semibold mb-4">About me:</h1>
+        <p class="text-white">I am currently a student studing Software Development. Here are the utilities I use:</p>
+        <p class="text-white">→ SvelteKit, used for front-end development</p>
+        <p class="text-white">→ TailwindCSS, used for styling</p>
+        <p class="text-white">→ JavaScript, used for website development</p>
+        <p class="text-white">→ Python, used for bot development and other various projects</p>
+        <p class="text-white">→ Cloudflare Pages, used for hosting</p>
+        <p class="text-white">→ Figma, used for designing webpages</p>
+        <p class="text-white">→ Visual Studio Code, used for coding and editing code</p>
+        <p class="text-white">Outside of studies, I enjoy travelling around the country, photography, learning more about technology and playing video games.</p>
       </div>
     </div>
   </div>
@@ -51,34 +61,6 @@
           hosted with Cloudflare Pages. Used to advance knowledge with web
           development.
         </p>
-      </div>
-    </div>
-  </div>
-
-  <div class="box-content h-50 w-50 py-2 px-10">
-    <div class="rounded overfolw-hidden shadow-lg bg-[#302e2e]">
-      <div class="px-6 py-4">
-        <h1 class="text-white text-2xl font-semibold mb-4">Resources:</h1>
-        <h2 class="text-white text-xl font-semibold">Svelte:</h2>
-        <p class="text-white"> → Used for front-end development.</p>
-        <br />
-        <h2 class="text-white text-xl font-semibold">JavaScript:</h2>
-        <p class="text-white"> → Used for website development.</p>
-        <br />
-        <h2 class="text-white text-xl font-semibold">Python:</h2>
-        <p class="text-white"> → Used for bot development and other various projects.</p>
-        <br />
-        <h2 class="text-white text-xl font-semibold">TailwindCSS:</h2>
-        <p class="text-white"> → Used for styling.</p>
-        <br />
-        <h2 class="text-white text-xl font-semibold">Visual Studio Code:</h2>
-        <p class="text-white"> → Used for code editing.</p>
-        <br />
-        <h2 class="text-white text-xl font-semibold">Cloudflare Pages:</h2>
-        <p class="text-white"> → Used for hosting.</p>
-        <br />
-        <h2 class="text-white text-xl font-semibold">Figma:</h2>
-        <p class="text-white"> → Used for designing webpages.</p>
       </div>
     </div>
   </div>
