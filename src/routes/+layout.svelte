@@ -1,5 +1,9 @@
 <script>
-  
+    import Footer from "../components/Footer.svelte";
 </script>
 
-<slot />
+<main>
+    <slot />
+</main>
+
+<Footer />
