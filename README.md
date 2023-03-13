@@ -1,4 +1,4 @@
-# uhhhdetective.xyz
+# uhhhdetective.com
 
 ## Development
 
