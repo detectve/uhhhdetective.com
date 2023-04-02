@@ -21,13 +21,14 @@
       <div class="px-6 py-4">
         <h1 class="text-white text-2xl font-semibold mb-4">About me:</h1>
         <p class="text-white">I am currently a student studing Software Development. Here are the utilities I use:</p>
-        <p class="text-white">→ SvelteKit, used for front-end development</p>
-        <p class="text-white">→ TailwindCSS, used for styling</p>
-        <p class="text-white">→ JavaScript, used for website development</p>
-        <p class="text-white">→ Python, used for bot development and other various projects</p>
-        <p class="text-white">→ Cloudflare Pages, used for hosting</p>
-        <p class="text-white">→ Figma, used for designing webpages</p>
-        <p class="text-white">→ Visual Studio Code, used for coding and editing code</p>
+        <p class="text-white">→ SvelteKit, used for front-end development.</p>
+        <p class="text-white">→ TailwindCSS, used for styling.</p>
+        <p class="text-white">→ JavaScript, used for website development.</p>
+        <p class="text-white">→ Python, used for bot development and other various projects.</p>
+        <p class="text-white">→ Cloudflare Pages, used for hosting.</p>
+        <p class="text-white">→ Figma, used for designing webpages, apps and business cards.</p>
+        <p class="text-white">→ Visual Studio Code, used for coding and editing code.</p>
+        <p class="text-white">→ InetlliJ Idea Ultimate, for Kotlin development (work in progress).</p>
         <p class="text-white">Outside of studies, I enjoy travelling around the country, photography, learning more about technology and playing video games.</p>
       </div>
     </div>
@@ -54,12 +55,19 @@
         </p>
         <br />
         <h2 class="text-white text-xl font-semibold">
-          uhhhdetective.xyz, this website (work in progress):
+          uhhhdetective.com, this website (work in progress):
         </h2>
         <p class="text-white">
           → The website you're on now, made with SvelteKit and TailwindCSS,
           hosted with Cloudflare Pages. Used to advance knowledge with web
           development.
+        </p>
+        <br />
+        <h2 class="text-white text-xl font-semibold">
+          ??? (work in progress):
+        </h2>
+        <p class="text-white">
+          → A website to find out where different trains are, where people can upload images of trains or good spotting locations, where people can find out about the different classes of UK trains and more.
         </p>
       </div>
     </div>
