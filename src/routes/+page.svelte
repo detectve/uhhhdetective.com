@@ -28,7 +28,7 @@
         <p class="text-white">→ Cloudflare Pages, used for hosting.</p>
         <p class="text-white">→ Figma, used for designing webpages, apps and business cards.</p>
         <p class="text-white">→ Visual Studio Code, used for coding and editing code.</p>
-        <p class="text-white">→ InetlliJ Idea Ultimate, for Kotlin development (work in progress).</p>
+        <p class="text-white">→ IntelliJ Idea Ultimate, for Kotlin development (work in progress).</p>
         <p class="text-white">Outside of studies, I enjoy travelling around the country, photography, learning more about technology and playing video games.</p>
       </div>
     </div>
