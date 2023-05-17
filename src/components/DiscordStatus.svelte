@@ -42,7 +42,7 @@
       </a>
     </div>
     <div>
-      <p class="text-m text-white">
+      <p class="text-3xl text-white">
         <span style="color: {statusColor}"
           ><i class="animate-pulse fa-solid fa-circle" />
         </span>
@@ -51,11 +51,11 @@
       </p>
       <p class="text-m">
         {#if discordData.discord_status != "offline"}<span
-            class="text-white font-semibold">Online</span
+            class="text-white text-2xl font-semibold">Online</span
           >
           <span class="text-m text-gray-200"
             >({discordData.discord_status})</span
-          >{:else}<span class="text-white font-semibold">Offline</span>{/if}
+          >{:else}<span class="text-white text-2xl font-semibold">Offline</span>{/if}
       </p>
       <p class="text-m">
         {#if discordData.spotify != null}
@@ -71,7 +71,8 @@
       </p>
     </div>
   </div>
-{:else}{/if}
+{:else}<!-- svelte-ignore empty-block -->
+{/if}
 
 <style lang="postcss">
   .discordImg {
