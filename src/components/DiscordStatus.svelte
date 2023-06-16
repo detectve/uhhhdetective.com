@@ -42,7 +42,7 @@
       </a>
     </div>
     <div>
-      <p class="text-3xl text-white">
+      <p class="text-3xl text-grey">
         <span style="color: {statusColor}"
           ><i class="animate-pulse fa-solid fa-circle" />
         </span>
@@ -51,20 +51,20 @@
       </p>
       <p class="text-m">
         {#if discordData.discord_status != "offline"}<span
-            class="text-white text-2xl font-semibold">Online</span
+            class="text-grey text-2xl font-semibold">Online</span
           >
           <span class="text-m text-gray-200"
             >({discordData.discord_status})</span
-          >{:else}<span class="text-white text-2xl font-semibold">Offline</span>{/if}
+          >{:else}<span class="text-grey text-2xl font-semibold">Offline</span>{/if}
       </p>
       <p class="text-m">
         {#if discordData.spotify != null}
-          <span class="text-white font-semibold text-clip overflow-hidden">
+          <span class="text-grey font-semibold text-clip overflow-hidden">
             <i class="fab fa-spotify" />
-            <span class="font-normal text-gray-100"
+            <span class="font-normal text-grey-100"
               >Listening to
             </span>{discordData.spotify.song}
-            <span class="font-normal text-gray-100">by </span>
+            <span class="font-normal text-grey-100">by </span>
             {discordData.spotify.artist}
           </span>
         {/if}
