@@ -51,7 +51,7 @@ onMount(() => {
 				<span style="color: {statusColor}"
 					><i class="fa-solid fa-circle animate-pulse"></i>
 				</span>
-				{discordData.discord_user.username}#{discordData.discord_user.discriminator}
+				@{discordData.discord_user.username}
 			</p>
 			<p class="text-m">
 				{#if discordData.discord_status != 'offline'}<span
