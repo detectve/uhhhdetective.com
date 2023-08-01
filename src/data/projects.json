@@ -3,17 +3,20 @@
         {
             "id": 1,
             "name": "uhhhdetective.com",
-            "description": "This website, created with NextJS and TailwindCSS.",
+            "description": "This website, created using NextJS' App Router and TailwindCSS. Hosted on Cloudflare Pages using next-on-pages",
+            "primaryLanguage": "TypeScript",
             "url": "https://uhhhdetective.com"
         },
         {
             "id": 2,
             "name": "Train Information for Discord",
+            "primaryLanguage": "Python",
             "description": "A discord.py bot that provides information about trains, certain stations with their delays and cancellations for the UK. "
         },
         {
             "id": 3,
             "name": "Train Information Website",
+            "primaryLanguage": "Svelte",
             "description": "A website which shows in-depth information about trains, classes, etc, built with Svelte."
         }
     ]
