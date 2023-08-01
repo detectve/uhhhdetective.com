@@ -1,6 +1,3 @@
-export function NavigationBar(
-) {
-    return (
-        <></>
-    )
+export function NavigationBar() {
+    return <></>
 }

@@ -10,6 +10,12 @@
             "name": "Project 2",
             "description": "Really cool project Description",
             "url": "http://www.google.com"
+        },
+        {
+            "id": 3,
+            "name": "Project 3",
+            "description": "Really cool project Description",
+            "url": "http://www.google.com"
         }
     ]
 }
