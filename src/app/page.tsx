@@ -6,8 +6,8 @@ export default function Home() {
     return (
         <div>
             <h1 className="text-3xl">uhhhdetective.com</h1>
-            <p className="text-lg">
-                Hi, I&apos;m Emily. I&apos;m a {age} year old front-end
+            <p className="text-lg text-zinc-400">
+                Hi! I&apos;m Emily. I&apos;m a {age} year old front-end
                 developer from the UK. I have interests within web development,
                 cybersecurity, graphic design and photography. Outside of those
                 interests, I also enjoy travelling around the country via

@@ -2,20 +2,19 @@
     "projects": [
         {
             "id": 1,
-            "name": "Project 1",
-            "description": "Really cool project Description"
+            "name": "uhhhdetective.com",
+            "description": "This website, created with NextJS and TailwindCSS.",
+            "url": "https://uhhhdetective.com"
         },
         {
             "id": 2,
-            "name": "Project 2",
-            "description": "Really cool project Description",
-            "url": "http://www.google.com"
+            "name": "Train Information for Discord",
+            "description": "A discord.py bot that provides information about trains, certain stations with their delays and cancellations for the UK. "
         },
         {
             "id": 3,
-            "name": "Project 3",
-            "description": "Really cool project Description",
-            "url": "http://www.google.com"
+            "name": "Train Information Website",
+            "description": "A website which shows in-depth information about trains, classes, etc, built with Svelte."
         }
     ]
 }

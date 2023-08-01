@@ -4,7 +4,7 @@ import { ExternalLink } from 'lucide-react'
 
 export function ProjectItem(project: Project) {
     return (
-        <div className="rounded-md border border-zinc-500 p-2 px-3 transition-colors hover:border-zinc-100">
+        <div className="rounded-md border border-zinc-500 p-3 px-5 transition-colors hover:border-zinc-100">
             <div>
                 <h1 className="text-lg">{project.name}</h1>
                 <h2 className="text-zinc-400">{project.description}</h2>
