@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply bg-black text-white;
+    }
+}
+
+::-moz-selection {
+    color: rgb(255, 255, 255);
+    background: rgba(83, 109, 238, 0.2);
+}
+
+::selection {
+    color: rgb(255, 255, 255);
+    background: rgba(83, 109, 238, 0.2);
+}
