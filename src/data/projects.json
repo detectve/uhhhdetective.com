@@ -18,6 +18,12 @@
             "name": "Train Information Website",
             "primaryLanguage": "Svelte",
             "description": "A website which shows in-depth information about trains, classes, etc, built with Svelte."
+        },
+        {
+            "id": 4,
+            "name": "Bus Logger",
+            "primaryLanguage": "TypeScript",
+            "description": "Work in progress, a website where people can log bus sightings, view other people's sightings and upload their own photos of said buses - built with NextJS and TailwindCSS."
         }
     ]
 }
