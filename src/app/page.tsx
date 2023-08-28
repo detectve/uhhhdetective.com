@@ -14,7 +14,7 @@ export default function Home() {
                 railways and seeing sights.
                 <br />
                 <br />
-                You can see a list of my current public projects below:
+                You can see a list of my current projects below:
            </p>
             <div>
                 <ProjectsContainer />
