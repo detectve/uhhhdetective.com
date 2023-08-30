@@ -1,5 +1,6 @@
 import Link from 'next/link'
-import { DiscordLogoIcon, GitHubLogoIcon } from '@radix-ui/react-icons'
+import { DiscordLogoIcon, GitHubLogoIcon, TwitterLogoIcon } from '@radix-ui/react-icons'
+import { Twitter } from 'lucide-react'
 
 export function Footer() {
     return (
@@ -43,6 +44,15 @@ export function Footer() {
                     passHref>
                     <span className="text-blue-500 transition-colors hover:text-blue-400">
                         <DiscordLogoIcon className="h-6 w-6" />
+                    </span>
+                </Link>
+                <Link
+                    href="
+                    https://twitter.com/uhhhdetective
+                "
+                    passHref>
+                    <span className="text-blue-500 transition-colors hover:text-blue-400">
+                        <TwitterLogoIcon className="h-6 w-6" />
                     </span>
                 </Link>
             </div>
