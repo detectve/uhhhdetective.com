@@ -22,7 +22,7 @@ export default function Home() {
             <p className="text-lg text-zinc-400">
                 I mostly work with Next, SvelteKit and TypeScript, but I also have
                 experience with Python and C#. I am looking to expand this knowledge 
-                and learn about more technologies in the near future.
+                and learn to use more technologies in the near future.
             </p>
         </div>
     )

@@ -10,13 +10,7 @@ export function Footer() {
                     © 2023 - uhhhdetective.com. All rights reserved.
                 </p>
                 <p className="text-zinc-400">
-                    Website created by{' '}
-                    <Link href="https://dromzeh.dev/" passHref>
-                        <span className="text-blue-500 transition-colors hover:text-blue-400">
-                            dromzeh
-                        </span>
-                    </Link>
-                    . Website source code available on{' '}
+                    Created and designed by uhhhdetective. Website source code available on my {' '}
                     <Link
                         href="https://github.com/detectve/uhhhdetective.com/"
                         passHref>
