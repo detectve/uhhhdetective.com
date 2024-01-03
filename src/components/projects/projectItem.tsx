@@ -22,12 +22,16 @@ export function ProjectItem(project: Project) {
             </div>
             <div className="flex justify-between">
                 {project.primaryLanguage && (
-                    <p className="text-zinc-400 flex items-center">
+                    <p className="flex items-center text-zinc-400">
                         <span
                             className={`${
                                 languagesColor[project.primaryLanguage]
                             } transition-colors`}>
-                            <Circle className="inline-block mr-1" size={10} fill='currentColor' />
+                            <Circle
+                                className="mr-1 inline-block"
+                                size={10}
+                                fill="currentColor"
+                            />
                         </span>{' '}
                         {project.primaryLanguage}
                     </p>

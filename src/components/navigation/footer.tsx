@@ -1,16 +1,25 @@
 import Link from 'next/link'
-import { DiscordLogoIcon, GitHubLogoIcon, TwitterLogoIcon } from '@radix-ui/react-icons'
-import { Twitter } from 'lucide-react'
+import {
+    DiscordLogoIcon,
+    GitHubLogoIcon,
+    TwitterLogoIcon,
+} from '@radix-ui/react-icons'
 
 export function Footer() {
     return (
         <div className="flex justify-between border-t border-zinc-500 p-5 md:px-24">
             <div>
                 <p className="text-zinc-400">
-                    © 2023 - uhhhdetective.com. All rights reserved.
+                    © 2024 - uhhhdetective.com. All rights reserved.
                 </p>
                 <p className="text-zinc-400">
-                    Created and designed by uhhhdetective. Website source code available on my {' '}
+                    Created and designed by uhhhdetective with help from{' '}
+                    <Link href="https:/dromzeh.dev/" passHref>
+                        <span className="text-blue-500 transition-colors hover:text-blue-400">
+                            dromzeh
+                        </span>
+                    </Link>
+                    . Website source code available on my{' '}
                     <Link
                         href="https://github.com/detectve/uhhhdetective.com/"
                         passHref>
